@@ -1018,8 +1018,8 @@
     "id": "obsidian-tracker",
     "name": "Tracker",
     "description": "Tracks occurrences and numbers in your notes.",
-    "author": "pyrochlore",
-    "repo": "pyrochlore/obsidian-tracker"
+    "author": "original: pyrochlore, current: lazyguru",
+    "repo": "lazyguru/obsidian-tracker"
   },
   {
     "id": "obsidian-hotkeys-for-templates",
